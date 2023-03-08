@@ -6,5 +6,62 @@ A mobile payment app developed using Flutter is a handy tool that lets users han
 
 # 🔌 Plugins
 
+| Name  | Usage |
+| ------------- | ------------- |
+| Provider  | State Management  |
+| Http | Network calls  |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
