@@ -1,6 +1,8 @@
 # 💰Flutter Mobile Payment App
 
-Introducing MegaPay a fast, secure, and convenient mobile payment solution built with Flutter and REST API. Sign up in seconds, load your wallet, and enjoy a range of recharge services, including prepaid, DTH, and FASTag. With QR scan and pay, easily make payments on the go. Stay on top of your transactions with our detailed transaction history and account statement, and receive important updates with push notifications. Get started with MegaPay and experience a new level of mobile payments!
+Introducing MegaPay a fast, secure, and convenient mobile payment solution built with Flutter and REST API. Sign up in seconds, load your wallet, and enjoy a range of recharge services, including prepaid, DTH, and FASTag.
+With QR scan and pay, easily make payments on the go. Stay on top of your transactions with our detailed transaction history and account statement, and receive important updates with push notifications. 
+Get started with MegaPay and experience a new level of mobile payments!
 
 # ✨Features
  * **User Registration**
