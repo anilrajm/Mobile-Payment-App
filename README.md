@@ -30,7 +30,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Http                    | Network calls                  |
 | Google fonts            | Typography                     |
 | Webview flutter         | Load webpages                  |
-| QR flutter              | Generate QR                    |
+| UPI payment QR code generator             | Generate Payment QR                    |
 | QR code scanner         | Scan QR                        |
 | Permission Handler      | Get the necessary permission   |
 | Marquee                 | Auto scoll string continuously |
