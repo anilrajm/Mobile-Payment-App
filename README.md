@@ -28,7 +28,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Provider                | State Management               |
 | Http                    | Network calls                  |
 | Google fonts            | Typography                     |
-| Webview flutte          | Load webpages                  |
+| Webview flutter          | Load webpages                  |
 | QR flutter              | Generate QR                    |
 | QR code scanner         | Scan QR                        |
 | Permission Handler      | Get the necessary permission   |
