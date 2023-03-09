@@ -18,28 +18,26 @@ A mobile payment app developed using Flutter.
 # 🔌 Plugins
 
 |           Name          |              Usage             |
-|:-----------------------|:------------------------------:|
-| <span style="color: blue">Provider</span>                | State Management               |
-| <span style="color: blue">Http</span>                    | Network calls                  |
-| <span style="color: blue">Google fonts</span>            | Typography                     |
-| <span style="color: blue">Webview flutter</span>          | Load webpages                  |
-| <span style="color: blue">QR flutter</span>              | Generate QR                    |
-| <span style="color: blue">QR code scanner</span>         | Scan QR                        |
-| <span style="color: blue">Permission Handler</span>      | Get the necessary permission   |
-| <span style="color: blue">Marquee</span>                 | Auto scoll string continuously |
-| <span style="color: blue">Flutter Secure Storage</span>  | Storing sensitive data         | 
-| <span style="color: blue">Loading Animation Widget</span>| Show unique loading animations |
-| <span style="color: blue">Intl</span>                    | Get Date and Time              |
-| <span style="color: blue">Flutter Screen Util</span>     | Responsive UI. Independent of device dimensions| 
-| <span style="color: blue">Package Info Plus</span>       | Get App details                |
-| <span style="color: blue">Flutter Slidable</span>        | Add sliding action to cards mainly |
-| <span style="color: blue">Device Info Plus</span>        | Get device information             |
-| <span style="color: blue">Font Awesome Flutter</span>    | Use Font Awesome Icons|
-| <span style="color: blue">Email Validator</span>         | Validate Email ID input in textfields|
-| <span style="color: blue">Geo Locator</span>             | Get device location| 
-| <span style="color: blue">Flutter Native Splash</span>   | Add Native Splash screen|
-|<span style="color:blue">some *This is Blue italic.* text</span>|
-
+| ----------------------- | ------------------------------ |
+| Provider                | State Management               |
+| Http                    | Network calls                  |
+| Google fonts            | Typography                     |
+| Webview flutte          | Load webpages                  |
+| QR flutter              | Generate QR                    |
+| QR code scanner         | Scan QR                        |
+| Permission Handler      | Get the necessary permission   |
+| Marquee                 | Auto scoll string continuously |
+| Flutter Secure Storage  | Storing sensitive data         | 
+| Loading Animation Widget| Show unique loading animations |
+| Intl                    | Get Date and Time              |
+| Flutter Screen Util     | Responsive UI. Independent of device dimensions| 
+| Package Info Plus       | Get App details                |
+| Flutter Slidable        | Add sliding action to cards mainly |
+| Device Info Plus        | Get device information             |
+| Font Awesome Flutter    | Use Font Awesome Icons|
+| Email Validator         | Validate Email ID input in textfields|
+| Geo Locator             | Get device location| 
+| Flutter Native Splash   | Add Native Splash screen|
 
 
 # 🤓 Author(s)
