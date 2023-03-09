@@ -13,7 +13,7 @@ Get started with MegaPay and experience a new level of mobile payments!
  * **Wallet Cashload**
  * **Various recharge service including prepaid, DTH, FASTag etc...**
  * **Auto fetch Service operator**
- * **QR Scan& Pay**
+ * **QR Scan & Pay**
  * **Transaction History**
  * **Account Statement**
  * **Push Notification** 
@@ -29,7 +29,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Provider                | State Management               |
 | Http                    | Network calls                  |
 | Google fonts            | Typography                     |
-| Webview flutter          | Load webpages                  |
+| Webview flutter         | Load webpages                  |
 | QR flutter              | Generate QR                    |
 | QR code scanner         | Scan QR                        |
 | Permission Handler      | Get the necessary permission   |
@@ -52,44 +52,3 @@ Get started with MegaPay and experience a new level of mobile payments!
 ### *Anil Raj* &nbsp;![Twitter Follow](https://img.shields.io/twitter/follow/Aniljmjr?style=social) 
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
