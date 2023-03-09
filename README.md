@@ -47,7 +47,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 
 # 🤓 Author(s)
  
-Anil Raj ![Twitter Follow](https://img.shields.io/twitter/follow/Aniljmjr?style=social) 
+### *Anil Raj**  ![Twitter Follow](https://img.shields.io/twitter/follow/Aniljmjr?style=social) 
 
  
 
