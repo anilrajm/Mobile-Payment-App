@@ -38,6 +38,7 @@ A mobile payment app developed using Flutter.
 | <span style="color: blue">Email Validator</span>         | Validate Email ID input in textfields|
 | <span style="color: blue">Geo Locator</span>             | Get device location| 
 | <span style="color: blue">Flutter Native Splash</span>   | Add Native Splash screen|
+|<span style="color:blue">some *This is Blue italic.* text</span>|
 
 
 
