@@ -12,6 +12,7 @@ Get started with MegaPay and experience a new level of mobile payments!
  * **Reset Password**
  * **Wallet Cashload**
  * **Various recharge service including prepaid, DTH, FASTag etc...**
+ * **Auto fetch Service operator**
  * **QR Scan& Pay**
  * **Transaction History**
  * **Account Statement**
