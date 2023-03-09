@@ -17,10 +17,26 @@ A mobile payment app developed using Flutter.
 
 # 🔌 Plugins
 
-| Name  | Usage |
-| ------------- | ------------- |
-| Provider  | State Management  |
-| Http | Network calls  |
+|           Name          |              Usage             |
+| ----------------------- | ------------------------------ |
+| Provider                | State Management               |
+| Http                    | Network calls                  |
+| Google fonts            | Typography                     |
+| Webview flutte          | Load webpages                  |
+| QR flutter              | Generate QR                    |
+| QR code scanner         | Scan QR                        |
+| Permission Handler      | Get the necessary permission   |
+| Marquee                 | Auto scoll string continuously |
+| Flutter Secure Storage  | Storing sensitive data         | 
+| Loading Animation Widget| Show unique loading animations |
+| Intl                    | Get Date and Time              |
+| Flutter Screen Util     | Responsive UI. Independent of device dimensions| 
+| Package Info Plus       | Get App details                |
+| Flutter Slidable        | Add sliding action to cards mainly |
+| Device Info Plus        | Get device information             |
+| Font Awesome Flutter    | Use Font Awesome Icons|
+| Email Validator         | Validate Email ID input in textfields|
+| Geo Locator             | Get device location| 
 
 
 
