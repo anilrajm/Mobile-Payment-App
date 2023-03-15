@@ -30,6 +30,10 @@ Get started with MegaPay and experience a new level of mobile payments!
 |           Name          |              Usage             |
 | ----------------------- | ------------------------------ |
 | Provider                | State Management               |
+| Firebase Core           | Firebase Integration           |
+| Firebase Messaging      | Push Notification              |
+| Flutter Local Notifications| Additional features for FCM Push Notification|
+| Trust Location          | Mock Location Detection for Security|
 | Http                    | Network calls                  |
 | Google fonts            | Typography                     |
 | Webview flutter         | Load webpages                  |
