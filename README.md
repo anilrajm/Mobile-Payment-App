@@ -53,6 +53,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Email Validator         | Validate Email ID input in textfields|
 | Geo Locator             | Get device location| 
 | Flutter Native Splash   | Add Native Splash screen|
+| Rive                    | Add Rive Animations        | 
 
 
 # 🤓 Author(s)
