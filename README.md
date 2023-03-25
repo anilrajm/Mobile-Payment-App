@@ -33,6 +33,7 @@ Get started with MegaPay and experience a new level of mobile payments!
 | Provider                | State Management               |
 | Firebase Core           | Firebase Integration           |
 | Firebase Messaging      | Push Notification              |
+| Firebase Crashlytics    | To Get Real-time Crash reports |
 | Flutter Local Notifications| Additional features for FCM Push Notification|
 | Trust Location          | Mock Location Detection for Security|
 | Http                    | Network calls                  |
