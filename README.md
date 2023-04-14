@@ -31,7 +31,6 @@ Get started with MegaPay and experience a new level of mobile payments!
 |           Name          |              Usage             |
 | ----------------------- | ------------------------------ |
 | Provider                | State Management               |
-| Mock Locations          | Verify the Location            |
 | Firebase Core           | Firebase Integration           |
 | Firebase Messaging      | Push Notification              |
 | Firebase Crashlytics    | To Get Real-time Crash reports |
